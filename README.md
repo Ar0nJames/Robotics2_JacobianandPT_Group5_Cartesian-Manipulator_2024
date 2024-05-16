@@ -1,4 +1,4 @@
-Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024
+# Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024
 
 ## Table of Contents
 - [Abstract](#abstract)
