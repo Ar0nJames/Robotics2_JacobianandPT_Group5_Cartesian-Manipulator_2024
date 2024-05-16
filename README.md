@@ -16,15 +16,19 @@
   <p>Later in the article, we will delve into topics such as Calculating Degrees of Freedom, Denavit-Hartenberg Notation, the Jacobian Matrix, Inverse Kinematics, and the Path and Trajectory of the Cartesian Manipulator. Included are some videos related to these topics to aid in clarification and understanding.</p>
 </div>
 
-## Introduction
+## <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/introduction-6-15500.gif" style="height: 100px; width: 300px;">
+</p>
 <a name="introduction"></a>
-**The Jacobian Matrix** is a fundamental tool in the analysis of small signal stability within robotic systems. It is defined as a determinant for a finite number of functions, each involving the first partial derivatives of the same function with respect to the variables. This matrix establishes a relationship between the joint variables and the end-effector velocities of a robot's manipulator. When the joints of the robot move with certain velocities, the Jacobian Matrix helps determine the corresponding velocity of the end-effector. Its primary use is in finding the transformation coordinates, making it essential for understanding the dynamics of robotic motion.
+
+**
 
 
 
 </div>
 
-## Jacobian Matrix
+## Jacobian Matrix <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w.gif" style="height: 20px; width: 100px;">
+</p>
+
 <a name="jacobian-matrix"></a>
 **The Jacobian Matrix** is a fundamental tool in the analysis of small signal stability within robotic systems. It is defined as a determinant for a finite number of functions, each involving the first partial derivatives of the same function with respect to the variables. This matrix establishes a relationship between the joint variables and the end-effector velocities of a robot's manipulator. When the joints of the robot move with certain velocities, the Jacobian Matrix helps determine the corresponding velocity of the end-effector. Its primary use is in finding the transformation coordinates, making it essential for understanding the dynamics of robotic motion.
 
