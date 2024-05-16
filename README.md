@@ -16,7 +16,7 @@
   <p>Later in the article, we will delve into topics such as Calculating Degrees of Freedom, Denavit-Hartenberg Notation, the Jacobian Matrix, Inverse Kinematics, and the Path and Trajectory of the Cartesian Manipulator. Included are some videos related to these topics to aid in clarification and understanding.</p>
 </div>
 
-## <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/introduction-6-15500.gif" style="height: 100px; width: 300px;">
+## <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/introduction-6-15500.gif" style="height: 80px; width: 240px;">
 </p>
 <a name="introduction"></a>
 
