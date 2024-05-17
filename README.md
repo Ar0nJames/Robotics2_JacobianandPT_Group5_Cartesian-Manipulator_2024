@@ -1,6 +1,11 @@
-# Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024
+<div align="center">
+  <h1>Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024</h1>
+  <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/DASDADW.gif" style="height: 255px; width: 450px;">
+</div>
 
-## Table of Contents
+
+
+## Table of Contents 📁
 - [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Jacobian Matrix](#jacobian-matrix)
@@ -13,7 +18,7 @@
 <div align="center">
   <p>In this article, we will discuss the Cartesian Manipulator, detailing all of its components. Also known as a rectilinear or gantry robot, a Cartesian Manipulator operates using the Cartesian coordinate system and features three linear joints (or a combination thereof) along the X, Y, and Z axes.</p>
 
-  <p>Later in the article, we will delve into topics such as Calculating Degrees of Freedom, Denavit-Hartenberg Notation, the Jacobian Matrix, Inverse Kinematics, and the Path and Trajectory of the Cartesian Manipulator. Included are some videos related to these topics to aid in clarification and understanding.</p>
+  <p>Later in the article, we will delve into topics such as the Jacobian Matrix, Differential equations and the Path and Trajectory of the Cartesian Manipulator. Included are some description, computaion and videos related to these topics to aid in clarification and understanding.</p>
 </div>
 
 ## Introduction ➡️
@@ -32,7 +37,8 @@
 <a name="jacobian-matrix"></a>
 **The Jacobian Matrix** is a fundamental tool in the analysis of small signal stability within robotic systems. It is defined as a determinant for a finite number of functions, each involving the first partial derivatives of the same function with respect to the variables. This matrix establishes a relationship between the joint variables and the end-effector velocities of a robot's manipulator. When the joints of the robot move with certain velocities, the Jacobian Matrix helps determine the corresponding velocity of the end-effector. Its primary use is in finding the transformation coordinates, making it essential for understanding the dynamics of robotic motion.
 
-## Differential Equation of Cartesian Manipulator
+## Differential Equation of Cartesian Manipulator <img src=""height: 20px; width: 100px;">
+</p>
 <a name="differential-equation"></a>
 Explain the assigned mechanical manipulator and its computation of the Differential Equation.
 
