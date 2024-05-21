@@ -74,19 +74,11 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 <a name="differential-equation"></a>
 **Differential Equation** of a Cartesian manipulator describes the relationship between the input joint velocities and the resulting end-effector velocities. It typically involves the manipulator's Jacobian matrix, which relates these velocities in a linear manner. By using the Jacobian, one can express the end-effector velocities as a function of the joint velocities. This relationship is crucial for control purposes, as it allows one to determine how changes in joint positions affect the end-effector's motion. In dynamic analyses, this equation is often used to predict the manipulator's behavior under different conditions, aiding in tasks such as trajectory planning and obstacle avoidance.
-## Path and Trajectory Planning of Cartesian Manipulator
 
 
 
 
-
-
-
-
-
-
-
-
+## Path and Trajectory Planning of Cartesian Manipulator<img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" style="height: 90px; width: 60px;">
 
 <a name="path-and-trajectory-planning"></a>
 **Path Planning and Trajectory Planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
@@ -97,25 +89,3 @@ List all the references used in the project.
 
 
 
-
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="vertical-align: middle; border: none; padding: 0;">Path and Trajectory Planning of Cartesian Manipulator</td>
-    <td style="border: none; padding: 0;"><img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" alt="Image Description" width="150"/></td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<table>
-  <tr>
-    <td style="vertical-align: middle;">This is a placeholder image</td>
-    <td><img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" alt="Placeholder Image" width="150"/></td>
-  </tr>
-</table>
