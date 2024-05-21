@@ -36,12 +36,28 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 <a name="jacobian-matrix"></a>
 **The Jacobian Matrix** is a fundamental tool in the analysis of small signal stability within robotic systems. It is defined as a determinant for a finite number of functions, each involving the first partial derivatives of the same function with respect to the variables. This matrix establishes a relationship between the joint variables and the end-effector velocities of a robot's manipulator. When the joints of the robot move with certain velocities, the Jacobian Matrix helps determine the corresponding velocity of the end-effector. Its primary use is in finding the transformation coordinates, making it essential for understanding the dynamics of robotic motion.
 
-## Differential Equation of Cartesian Manipulator <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" height: 20px; width: 100px;">
+
+
+
+
+## Differential Equation of Cartesian Manipulator <img src="<img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
 </p>
 <a name="differential-equation"></a>
-Explain the assigned mechanical manipulator and its computation of the Differential Equation.
-
+**Differential Equation** of a Cartesian manipulator describes the relationship between the input joint velocities and the resulting end-effector velocities. It typically involves the manipulator's Jacobian matrix, which relates these velocities in a linear manner. By using the Jacobian, one can express the end-effector velocities as a function of the joint velocities. This relationship is crucial for control purposes, as it allows one to determine how changes in joint positions affect the end-effector's motion. In dynamic analyses, this equation is often used to predict the manipulator's behavior under different conditions, aiding in tasks such as trajectory planning and obstacle avoidance.
 ## Path and Trajectory Planning of Cartesian Manipulator
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a name="path-and-trajectory-planning"></a>
 **Path planning and trajectory planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
 
