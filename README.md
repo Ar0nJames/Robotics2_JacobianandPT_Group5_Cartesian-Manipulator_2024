@@ -22,7 +22,7 @@
 ## Introduction ➡️
 
 <a name="introduction"></a>
-The Cartesian Manipulator, also known as a rectilinear or gantry robot, operates using the Cartesian coordinate system, characterized by three linear joints that move along the X, Y, and Z axes. This project delves into the development and analysis of the Cartesian Manipulator, offering an in-depth look at its components and operational principles.
+**The Cartesian Manipulator** , also known as a rectilinear or gantry robot, operates using the Cartesian coordinate system, characterized by three linear joints that move along the X, Y, and Z axes. This project delves into the development and analysis of the Cartesian Manipulator, offering an in-depth look at its components and operational principles.
 
 Historically, Cartesian manipulators emerged in the mid-20th century as versatile tools for industrial automation, benefiting from their straightforward design and ease of control. Initially employed in applications such as material handling and machining, these robots have evolved to perform more complex tasks, including precise assembly and intricate welding operations. The simplicity and reliability of Cartesian manipulators have made them a staple in various manufacturing processes, providing a foundation for more advanced robotic systems.
 
@@ -42,6 +42,7 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 ## Differential Equation of Cartesian Manipulator <img src="<img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
 </p>
+
 <a name="differential-equation"></a>
 **Differential Equation** of a Cartesian manipulator describes the relationship between the input joint velocities and the resulting end-effector velocities. It typically involves the manipulator's Jacobian matrix, which relates these velocities in a linear manner. By using the Jacobian, one can express the end-effector velocities as a function of the joint velocities. This relationship is crucial for control purposes, as it allows one to determine how changes in joint positions affect the end-effector's motion. In dynamic analyses, this equation is often used to predict the manipulator's behavior under different conditions, aiding in tasks such as trajectory planning and obstacle avoidance.
 ## Path and Trajectory Planning of Cartesian Manipulator
@@ -59,7 +60,7 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 
 <a name="path-and-trajectory-planning"></a>
-**Path planning and trajectory planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
+**Path Planning** and trajectory planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
 
 ## References
 <a name="references"></a>
