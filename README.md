@@ -98,27 +98,17 @@ List all the references used in the project.
 
 
 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="vertical-align: middle; border: none; padding: 0;">Path and Trajectory Planning of Cartesian Manipulator</td>
+    <td style="border: none; padding: 0;"><img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" alt="Image Description" width="150"/></td>
+  </tr>
+</table>
 
 
 
 
 
-
-
-
-
-
-<p align="center">
-  <span style="display:inline-block; vertical-align:middle;">This is a placeholder image</span>
-  <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" width="150" style="vertical-align:middle;"/>
-</p>
-
-
-
-<p align="center">
-  <span style="display:inline-block; vertical-align:middle; margin-bottom:10px;">This is a placeholder image</span>
-  <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" alt="Placeholder Image" width="150" style="vertical-align:middle;"/>
-</p>
 
 
 
@@ -129,13 +119,3 @@ List all the references used in the project.
     <td><img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" alt="Placeholder Image" width="150"/></td>
   </tr>
 </table>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" width="150"/>
-  <br/>
-  <span style="display:inline-block; vertical-align:middle;">This is a placeholder image</span>
-</p>
-
