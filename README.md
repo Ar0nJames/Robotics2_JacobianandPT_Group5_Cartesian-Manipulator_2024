@@ -60,7 +60,7 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 
 <a name="path-and-trajectory-planning"></a>
-**Path Planning** and trajectory planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
+**Path Planning and Trajectory Planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
 
 ## References
 <a name="references"></a>
