@@ -16,18 +16,17 @@
 ## Abstract 🗃️
 <a name="abstract"></a>
 <div align="center">
-  <p>In this article, we will discuss the Cartesian Manipulator, detailing all of its components. Also known as a rectilinear or gantry robot, a Cartesian Manipulator operates using the Cartesian coordinate system and features three linear joints (or a combination thereof) along the X, Y, and Z axes.</p>
-
-  <p>Later in the article, we will delve into topics such as the Jacobian Matrix, Differential equations and the Path and Trajectory of the Cartesian Manipulator. Included are some description, computaion and videos related to these topics to aid in clarification and understanding.</p>
+  <p>This project focuses on the development and analysis of a Cartesian Manipulator, detailing its components and operational principles. The deliverables include recorded demonstration videos, code for path and trajectory planning for two specific tasks—pick and place, and welding—and the implementation of a GUI featuring a velocity calculator and path and trajectory planning functionalities. The project portfolio, documented in the README, encompasses an abstract, an introduction, and detailed descriptions and computations related to the Jacobian Matrix and differential equations of the Cartesian Manipulator. Additionally, it provides a comprehensive guide on path and trajectory planning, complete with the associated programs and references.</p>
 </div>
 
 ## Introduction ➡️
 
 <a name="introduction"></a>
+The Cartesian Manipulator, also known as a rectilinear or gantry robot, operates using the Cartesian coordinate system, characterized by three linear joints that move along the X, Y, and Z axes. This project delves into the development and analysis of the Cartesian Manipulator, offering an in-depth look at its components and operational principles.
 
-**
+Historically, Cartesian manipulators emerged in the mid-20th century as versatile tools for industrial automation, benefiting from their straightforward design and ease of control. Initially employed in applications such as material handling and machining, these robots have evolved to perform more complex tasks, including precise assembly and intricate welding operations. The simplicity and reliability of Cartesian manipulators have made them a staple in various manufacturing processes, providing a foundation for more advanced robotic systems.
 
-
+In this project, we aim to provide a comprehensive understanding of the Cartesian Manipulator through recorded demonstration videos, code for path and trajectory planning for specific tasks like pick and place and welding, and the development of a GUI with a velocity calculator and path and trajectory planning functionalities. The project's portfolio, detailed in the README, includes an abstract, an introduction, and thorough descriptions and computations related to the Jacobian Matrix and differential equations of the Cartesian Manipulator. Additionally, it offers a complete guide on path and trajectory planning, accompanied by the relevant programs and references.
 
 </div>
 
