@@ -61,7 +61,7 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 | 0 | 0 | 0 |
 | 2 | 3 | 4 |
 | 4 | 6 | 8 |
-| 6 | 12 |  |
+| 6 | 9 | 12 |
 | 8 | 12 | 16 |
 
 </div>
