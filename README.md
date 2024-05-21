@@ -36,11 +36,29 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 <a name="jacobian-matrix"></a>
 **The Jacobian Matrix** is a fundamental tool in the analysis of small signal stability within robotic systems. It is defined as a determinant for a finite number of functions, each involving the first partial derivatives of the same function with respect to the variables. This matrix establishes a relationship between the joint variables and the end-effector velocities of a robot's manipulator. When the joints of the robot move with certain velocities, the Jacobian Matrix helps determine the corresponding velocity of the end-effector. Its primary use is in finding the transformation coordinates, making it essential for understanding the dynamics of robotic motion.
 
+<div align="center">
+<p align="center"> <b> VELOCITY </b> </p>
+
+  
+| Percentage | x prime | y prime | z prime | omega x | omega y | omega z |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 0% | 0 | 0 | 0 | 0 | 0 | 0 |
+| 25% | 3 | 2 | 0 | 0 | 0 | 0 |
+| 50% | 6 | -8 | 4 | 0 | 0 | 0 |
+| 75% | 9 | -12 | 6 | 0 | 0 | 0 |
+| 100% | 12 | -16 | 8 | D | 0 | 0 |
+
+</div>
+<br>
 
 
 
 
-## Differential Equation of Cartesian Manipulator <img src="<img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
+
+
+
+
+## Differential Equation of Cartesian Manipulator <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
 </p>
 
 <a name="differential-equation"></a>
