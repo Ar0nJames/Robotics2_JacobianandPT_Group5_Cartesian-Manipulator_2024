@@ -48,6 +48,7 @@ def deg_to_rad(T):
 
 
 # q paths
+
 q0 = np.array([0,0,0,0])
 
 q1 = np.array([0,mm_to_meter(float(30)),
@@ -70,24 +71,24 @@ q4 = np.array([0,mm_to_meter(float(30)),
                 mm_to_meter(float(10)),
                 ])
             
-q6 = np.array([0,0,0,0])
+q5 = np.array([0,0,0,0])
 
-q7 = np.array([0,mm_to_meter(float(30)),
+q6 = np.array([0,mm_to_meter(float(30)),
                 mm_to_meter(float(30)),
                 mm_to_meter(float(30)),
                 ])
 
-q8 = np.array([0,mm_to_meter(float(30)),
+q7 = np.array([0,mm_to_meter(float(30)),
                 mm_to_meter(float(15)),
                 mm_to_meter(float(30)),
                 ])
 
-q9 = np.array([0,mm_to_meter(float(0)),
+q8 = np.array([0,mm_to_meter(float(0)),
                 mm_to_meter(float(30)),
                 mm_to_meter(float(30)),
                 ])
 
-q10 = np.array([0,mm_to_meter(float(30)),
+q9 = np.array([0,mm_to_meter(float(30)),
                 mm_to_meter(float(0)),
                 mm_to_meter(float(10)),
                 ])
@@ -114,8 +115,7 @@ tradj6 = rtb.jtraj(q5,q6,50)
 tradj7 = rtb.jtraj(q6,q7,50)
 tradj8 = rtb.jtraj(q7,q8,50)
 tradj9 = rtb.jtraj(q8,q9,50)
-tradj10 = rtb.jtraj(q9,q10,50)
-tradj11 = rtb.jtraj(q10,q0,50)
+tradj10 = rtb.jtraj(q9,q0,50)
 
 
 
@@ -129,7 +129,6 @@ CARTESIAN.plot(tradj7.q, limits=[x1,x2,y1,y2,z1,z2])
 CARTESIAN.plot(tradj8.q, limits=[x1,x2,y1,y2,z1,z2])
 CARTESIAN.plot(tradj9.q, limits=[x1,x2,y1,y2,z1,z2])
 CARTESIAN.plot(tradj10.q, limits=[x1,x2,y1,y2,z1,z2])
-CARTESIAN.plot(tradj11.q, limits=[x1,x2,y1,y2,z1,z2])
 
 
 CARTESIAN.teach(jointlabels=1)
