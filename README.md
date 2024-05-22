@@ -67,6 +67,13 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 </div>
 <br>
 
+**Demonstration Video**
+<p align="center">
+  <a href="[https://youtu.be/kDal61jIYYo](https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Youtube%20Vids/%20Jacobian%20Matrix)">
+    <img src= https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/dasdawa.png alt="Click to watch video" width="500">
+  </a>
+</p>
+
 
 
 ## Differential Equation of Cartesian Manipulator <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
