@@ -38,6 +38,16 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 
 <div align="center">
+<p align="center"> <b>Codes</b> </p>
+  <a href="Jacobian Matrix/code.s">
+    <img src= "https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(2).gif" width="100">
+  </a>
+</p>
+
+
+
+
+<div align="center">
 <p align="center"> <b> Velocity </b> </p>
 
 | Percentage | x prime | y prime | z prime | omega x | omega y | omega z |
@@ -67,13 +77,6 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 </div>
 <br>
 
-**Demonstration Video**
-<p align="center">
-  <a href="[https://youtu.be/kDal61jIYYo](https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Youtube%20Vids/%20Jacobian%20Matrix)">
-    <img src= https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/dasdawa.png alt="Click to watch video" width="500">
-  </a>
-</p>
-
 
 
 ## Differential Equation of Cartesian Manipulator <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/200w%20(1).gif" style="height: 90px; width: 60px;">
@@ -85,10 +88,28 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 
 
+
+
+
+
+
+
+
+
+
+
 ## Path and Trajectory Planning of Cartesian Manipulator<img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/6ip5rnXAT.gif" style="height: 90px; width: 60px;">
 
 <a name="path-and-trajectory-planning"></a>
 **Path Planning and Trajectory Planning** are critical aspects of robotics and automation. The trend toward higher operating speeds in robotic systems aims to reduce production times, but this can impact the accuracy and repeatability of robot motions. High-speed operations demand exceptional performance from actuators and control systems, making it essential to generate smooth trajectories that minimize excessive accelerations and mechanical vibrations. Path planning algorithms create a geometric path from an initial to a final point, passing through pre-defined via-points, while trajectory planning algorithms assign time information to these paths. The careful timing of these trajectories is crucial, as it influences both the kinematic and dynamic properties of the robot's motion.
+
+
+
+
+
+
+
+
 
 ## References
 <a name="references"></a>
