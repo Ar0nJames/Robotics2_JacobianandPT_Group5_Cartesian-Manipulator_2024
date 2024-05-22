@@ -108,6 +108,62 @@ In this project, we aim to provide a comprehensive understanding of the Cartesia
 
 
 
+<p align="left"><strong>Pick and Place of Cartesian Manipulator ⛏</strong></p> 
+  
+<a name="Pick and Place"></a>
+**A Cartesian manipulator** performs pick-and-place tasks by moving its end effector in linear paths along the X, Y, and Z axes. In the picking phase, the manipulator positions its end effector above the target object by moving along the X and Y axes. It then lowers the end effector along the Z axis to reach and grasp the object using a gripper or vacuum mechanism. Once the object is securely held, the manipulator lifts it by moving the end effector upward along the Z axis.
+
+
+
+
+**Pick and Place Video 📹**
+<p align="center">
+  <a href="https://youtu.be/JhUwG11XLy0">
+    <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/10e49963efebb125fb47044cd837fb6b.gif" alt="Image Description" alt="Click to watch video" width="100">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<p align="left"><strong>Welding of Cartesian Manipulator ❇</strong></p> 
+
+
+
+
+
+**A Cartesian manipulator** used for welding performs its tasks by moving a welding tool along the X, Y, and Z axes to weld joints or seams. In the welding process, the manipulator first positions the welding tool above the joint by moving along the X and Y axes. It then lowers the tool along the Z axis to the correct welding position.
+
+Once in position, the manipulator initiates the welding process, moving the tool along the joint while applying the welding arc or filler material. The speed and precision of the manipulator's movements ensure consistent and high-quality welds.
+
+**Welding Video 📹**
+
+<p align="center">
+  <a href="https://youtu.be/TaumzIBahQw">
+    <img src="https://github.com/Ar0nJames/Robotics2_JacobianandPT_Group5_Cartesian-Manipulator_2024/blob/main/Img%20folder/10e49963efebb125fb47044cd837fb6b.gif" alt="Image Description" alt="Click to watch video" width="100">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
